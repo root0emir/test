@@ -2,7 +2,6 @@ import os
 import sys
 import time
 from colorama import init, Fore, Style
-from deauth import deauth_attack
 
 init(autoreset=True)
 
